@@ -53,5 +53,3 @@ Efficient Data Processing: AWS Lambda functions handle both data extraction and 
 Comprehensive Data Cataloging: AWS Glue provides an automated way to manage metadata, simplifying data access for analysis.
 
 Real-Time Insights: Amazon Athena allows real-time querying of the transformed data, enabling music industry professionals to gain actionable insights quickly.
-
--- This project was part of the Python for Data Engineering course by Data Vidya, showcasing a practical application of AWS services to build an efficient, scalable ETL pipeline for real-world data analysis.
